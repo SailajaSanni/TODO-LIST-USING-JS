@@ -1,0 +1,44 @@
+input[type=text] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius:25px;
+  color:purple;
+  font-size:15px;
+  font-weight:bold;
+}
+h1{
+	color:Crimson;
+	font-size:45px;
+}
+h2{
+	color:MediumVioletRed;
+	font-size:35px;
+}
+	
+body{
+	background-color:skyblue;
+}
+
+button{
+	width: 20%;
+	padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius:15px;
+    color:DarkCyan;
+    font-size:15px;
+    font-weight:bold;
+	
+}
+.ButtonDelete{
+	color:Darkred;
+}
+p{
+	
+    color:Indigo;
+    font-size:25px;
+    font-weight:bold;
+}
+	
